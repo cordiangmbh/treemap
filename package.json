@@ -1,0 +1,20 @@
+{
+  "name": "treemap",
+  "version": "1.0.0",
+  "description": "Bli Bla Blub",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gungem/treemap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gungem/treemap/issues"
+  },
+  "homepage": "https://github.com/gungem/treemap#readme"
+}
