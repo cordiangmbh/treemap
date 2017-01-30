@@ -8,3 +8,5 @@ $(document).ready(function() {
 
     $('#treemap').html(html);
 });
+
+console.log("Guus van Ooijen made this app!");
